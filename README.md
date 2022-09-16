@@ -16,4 +16,4 @@ Linking the local repository with the remote one
 3. Космопорт «Черезтерновый Кзвёздный»
 4. Дизайн-студия имени Слишком Известного Персонажа
 
-Нас можно найти в [google.com](google.com)
+Нас можно найти в [google.com](https://www.google.ru/)
